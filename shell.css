@@ -1,0 +1,61 @@
+* {
+    margin:0;
+    padding:0;
+    list-style: none;
+}
+.warrper {
+    width:400px;
+    margin:100px auto 0;
+    background-color:#fff;
+    padding:10px;
+    border-radius: 8px;
+    border:1px solid #666;
+}
+.warrper .warrper-top{
+    height:27px;
+    width:400px;
+    margin-bottom: 20px;
+}
+.warrper .warrper-top input{
+    width:220px;
+    height:25px;
+    border-radius: 4px;
+    border:1px solid #777;
+    padding-left:10px;
+    outline:none;
+}
+.warrper .warrper-top .btn {
+    color:#3c8dff;
+    padding:0 5px;
+    cursor: pointer;
+}
+.warrper .warrper-top .btn.btn-x{
+    background-color:#3c8dff;
+    color:#fff;
+    border-radius: 4px;
+}
+.warrper .warrper-bottom {
+    
+}
+.warrper .warrper-bottom ul{
+    
+}
+.warrper .warrper-bottom ul li{
+    padding-top:10px;
+    padding-bottom:10px;
+    position: relative;
+    border-bottom:1px solid #999;
+    padding-left:50px;
+}
+.warrper .warrper-bottom ul li img {
+    position: absolute;
+    left:0px;
+    top:10px;
+}
+.warrper .warrper-bottom ul li .p-top{
+    margin-bottom:10px;
+}
+.warrper .warrper-bottom ul li .p-bottom{
+    font-size:12px;
+    color:#666;
+}
